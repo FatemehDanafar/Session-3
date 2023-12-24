@@ -14,7 +14,7 @@ for i in range (L):
 #snake=[]
 #for i in range (L):
     #if i %2==0:
-        #snake.append("#",end="")
+        #snake.append("#")
     #else:
-       # snake.append("*",end="")
+       # snake.append("*")
     #print("your snake :) --->" ,snake)    
